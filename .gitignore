@@ -1,0 +1,12 @@
+/Temp
+/Library
+/Obj
+/UnityGenerated
+/Build
+/Builds
+/Logs
+/*.sln
+/Assembly-CSharp.csproj
+*.suo
+*.user
+*.userprefs
