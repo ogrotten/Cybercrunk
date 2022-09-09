@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8591015839410852116}
   - component: {fileID: 8591015839410852119}
   - component: {fileID: 7317207439682868127}
-  - component: {fileID: -4033174644182304844}
+  - component: {fileID: 9196954689088493812}
   m_Layer: 5
   m_Name: Transaction
   m_TagString: Transact
@@ -139,7 +139,7 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &-4033174644182304844
+--- !u!114 &9196954689088493812
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,8 +152,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
-    _objectReferences: []
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 3700d7eda7e9f0940bd0007f79c9d38d, type: 2}
 --- !u!1 &8591015840247905708
 GameObject:
   m_ObjectHideFlags: 0

@@ -4332,7 +4332,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2046060911053889013, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
-      value: Transact
+      value: Transaction
       objectReference: {fileID: 0}
     - target: {fileID: 5348892980779091329, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_text
