@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 8591015839410852116}
   - component: {fileID: 8591015839410852119}
   - component: {fileID: 7317207439682868127}
-  - component: {fileID: 9196954689088493812}
+  - component: {fileID: 3238894512130624926}
   m_Layer: 5
-  m_Name: Transaction
+  m_Name: TransactionButton
   m_TagString: Transact
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,7 +139,7 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &9196954689088493812
+--- !u!114 &3238894512130624926
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

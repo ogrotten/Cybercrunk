@@ -1898,7 +1898,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 2b55456a0bdd5a14686d7484b133e999, type: 2}
+    - {fileID: 11400000, guid: 7a83f4859379cbd4bae95b14ac62fc36, type: 2}
 --- !u!114 &769190379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4298,38 +4298,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: -3.286377
       objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 11400000, guid: 3700d7eda7e9f0940bd0007f79c9d38d, type: 2}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2046060911053889011, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 2046060911053889013, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: Transaction
@@ -4465,11 +4433,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2166368199826949493, guid: ee5d1163727ec5b4ba9e4eb57ff65571, type: 3}
       propertyPath: m_Name
-      value: SmallModal
+      value: TransactionModal
       objectReference: {fileID: 0}
     - target: {fileID: 2166368199826949493, guid: ee5d1163727ec5b4ba9e4eb57ff65571, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2166368199826949493, guid: ee5d1163727ec5b4ba9e4eb57ff65571, type: 3}
+      propertyPath: m_TagString
+      value: TransactionModal
       objectReference: {fileID: 0}
     - target: {fileID: 2212842172384363355, guid: ee5d1163727ec5b4ba9e4eb57ff65571, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
