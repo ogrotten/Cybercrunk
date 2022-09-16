@@ -472,6 +472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: row 4
       objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1218,6 +1222,10 @@ PrefabInstance:
     - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: row 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
@@ -2036,7 +2044,7 @@ GameObject:
   - component: {fileID: 872096173}
   m_Layer: 5
   m_Name: Table
-  m_TagString: Untagged
+  m_TagString: table
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2279,6 +2287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: row 3
       objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2425,6 +2437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: row 5
       objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2570,6 +2586,10 @@ PrefabInstance:
     - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: row 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
@@ -2718,6 +2738,10 @@ PrefabInstance:
     - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: row 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
@@ -3840,6 +3864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: row 1
       objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3999,6 +4027,10 @@ PrefabInstance:
     - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: row 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 350200036419586271, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Pivot.x
@@ -4335,6 +4367,10 @@ PrefabInstance:
     - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Name
       value: row 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 350200036419586268, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 350200036419586270, guid: dd96084c477ab914d9259beb85db83f0, type: 3}
       propertyPath: m_Enabled
